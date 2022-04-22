@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @spodi4real
+- 👀 I’m interested in frontend and coding
+- 🌱 I’m currently learning html5
+- 💞️ I’m looking to collaborate on my project 
+- 📫 How to reach me realspodi@gmail.com
